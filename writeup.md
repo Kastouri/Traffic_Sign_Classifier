@@ -150,5 +150,5 @@ For the 80 km/h image, the model is relatively sure that this is a stop sign (pr
 | 0%			    | No vehicles      							|
 
 
-For the other images the model almost 100% cetain. 
+For the other images the model almost 100% certain. 
 
