@@ -50,7 +50,7 @@ I used the numpy library to calculate summary statistics of the traffic signs da
 * The shape of a traffic sign image is 32x32x3
 * The number of unique classes/labels in the data set is 43
 
-#### 2. Include an exploratory visualization of the dataset.
+#### Include an exploratory visualization of the dataset.
 
 Here is an exploratory visualization of the data set. It is a Hisogtram showing the number of images in each class of the training and test dataset.
 
@@ -120,8 +120,7 @@ Here are five German traffic signs that I found on the web:
 
 The  30 km/h image might be difficult to classify because I modified it to simulate a partial obstruction of the sign.
 
-#### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
-
+#### 2. Model's predictions on  new traffic signs
 Here are the results of the prediction:
 
 | Image			        |     Prediction	        					| 
