@@ -1,0 +1,15 @@
+# git ignore everything in this directory
+*
+
+!.gitignore
+
+!README.md
+!Traffic_Sign_Classifier.ipynb
+!writeup.md
+!LICENSE
+
+# ...even if they are in subdirectories
+!*/
+
+!*/test_signs/*
+!*/traffic-signs-data/dataset.md
